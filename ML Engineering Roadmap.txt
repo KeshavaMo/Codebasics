@@ -1,0 +1,5 @@
+The following tutorials are taken from the codebasic youtube and github page 
+and are geared towards the development of skills for an Machine Learning Engineering Career.
+See the following link for the ML Engineering Roadmap:
+
+https://github.com/codebasics/roadmaps/blob/master/machine-learning-engineer-roadmap-2021/ml_engineer_roadmap_2021.md
